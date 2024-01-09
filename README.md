@@ -1,5 +1,7 @@
+ ![course monster](https://github.com/Course-Monster/.github/assets/126121348/f91aa20f-2e9c-459e-b0a3-86fdf7a5b6e3)
 
-# 🌟 Course Monster: Empowering Your Learning Journey 🚀 ![course monster](https://github.com/Course-Monster/.github/assets/126121348/f91aa20f-2e9c-459e-b0a3-86fdf7a5b6e3)
+
+# 🌟 Course Monster: Empowering Your Learning Journey 🚀
 
 ## Welcome to the Course Monster Repository! 🎉
 
