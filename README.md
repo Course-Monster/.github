@@ -1,10 +1,5 @@
-Creating an eye-catching and visually engaging `README.md` for Course Monster's GitHub repository would involve using Markdown features creatively. Here's a template that incorporates visual elements:
 
----
-
-# 🌟 Course Monster: Empowering Your Learning Journey 🚀
-
-![course monster](https://github.com/Course-Monster/.github/assets/126121348/f91aa20f-2e9c-459e-b0a3-86fdf7a5b6e3)
+# 🌟 Course Monster: Empowering Your Learning Journey 🚀 ![course monster](https://github.com/Course-Monster/.github/assets/126121348/f91aa20f-2e9c-459e-b0a3-86fdf7a5b6e3)
 
 ## Welcome to the Course Monster Repository! 🎉
 
