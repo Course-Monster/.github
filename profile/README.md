@@ -1,10 +1,4 @@
-Here's a sample README for the Course-Monster GitHub organization:
-
----
-
-# Hi there 👋
-
-Welcome to Course-Monster's GitHub organization! We're excited to have you here. Below you'll find some helpful information to get you started.
+# Welcome to Course-Monster's GitHub organization! We're excited to have you here. Below you'll find some helpful information to get you started.
 
 ## About Us
 Course-Monster is dedicated to creating world-class educational content and courses. We partner with leading technology organizations to provide top-notch learning experiences that are accessible to everyone. Our mission is to empower learners and help them achieve their career goals through high-quality education.
@@ -32,7 +26,3 @@ Our team loves to kick off the day with a strong cup of coffee and a great codin
 You can do mighty things with the power of [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)! 
 
 Happy coding!
-
----
-
-Feel free to customize this template further based on your organization's specific needs and preferences.
